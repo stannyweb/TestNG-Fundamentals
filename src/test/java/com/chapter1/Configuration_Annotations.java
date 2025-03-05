@@ -1,4 +1,4 @@
-package chapter1;
+package com.chapter1;
 
 import org.testng.annotations.*;
 
